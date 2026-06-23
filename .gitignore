@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dados sensíveis
+*.csv
+*.xlsx
+
+# Power BI
+*.pbix
+
+# Sistema
+.DS_Store
+Thumbs.db
